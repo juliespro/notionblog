@@ -12,7 +12,7 @@ module.exports = {
   author: 'Julie Hsieh',
 
   // open graph metadata (optional)
-  description: 'Julie\'s Pro Blog: Travel, Research, and Coding',
+  description: 'Julie\'s Pro Blog: Travel, Research, and Coding Tips',
   socialImageTitle: 'Julie Hsieh',
   socialImageSubtitle: 'Hello World! 👋',
 
